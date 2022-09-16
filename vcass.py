@@ -59,4 +59,5 @@ def run_alexa():
             run_alexa()
     else:
         talk('')
+        
 run_alexa()
